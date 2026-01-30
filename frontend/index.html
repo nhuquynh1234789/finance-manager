@@ -2,15 +2,19 @@
 
 <form id="form">
   <input type="number" id="amount" placeholder="Amount" required />
+
   <select id="type">
-    <option>INCOME</option>
-    <option>EXPENSE</option>
+    <option value="INCOME">INCOME</option>
+    <option value="EXPENSE">EXPENSE</option>
   </select>
+
   <input id="category" placeholder="Category" />
   <input id="desc" placeholder="Description" />
-  <button>Add Transaction</button>
+
+  <button type="submit">Add Transaction</button>
 </form>
 
 <div id="summary"></div>
 
 <script src="script.js"></script>
+
