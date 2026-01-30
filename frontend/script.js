@@ -1,13 +1,3 @@
-const form = document.getElementById("form");
-const amount = document.getElementById("amount");
-const type = document.getElementById("type");
-const category = document.getElementById("category");
-const desc = document.getElementById("desc");
-const summary = document.getElementById("summary");
-
-let income = 0;
-let expense = 0;
-
 form.addEventListener("submit", function (e) {
   e.preventDefault();
 
