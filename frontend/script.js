@@ -8,20 +8,28 @@ const summary = document.getElementById("summary");
 let income = 0;
 let expense = 0;
 
-form.onsubmit = e => {
+form.addEventListener("submit", function (e) {
   e.preventDefault();
 
   const amt = Number(amount.value);
 
-  if (type.value === "INCOME") income += amt;
-  else expense += amt;
+  if (amt <= 0) {
+    alert("Enter valid amount");
+    return;
+  }
+
+  if (type.value === "INCOME") {
+    income += amt;
+  } else {
+    expense += amt;
+  }
 
   summary.innerHTML = `
     <h3>Summary</h3>
-    Income: ${income}<br>
-    Expense: ${expense}<br>
-    Balance: ${income - expense}
+    <p>Income: ${income}</p>
+    <p>Expense: ${expense}</p>
+    <p><b>Balance: ${income - expense}</b></p>
   `;
 
   form.reset();
-};
+});
